@@ -8,5 +8,5 @@ My friend Steve just graduated college with a finance degree and his parents wan
 Steve wanted to see the annual return for years 2017 & 2018 for his portfolio of green energy stocks, so that is the main measure I designed my macro to calculate for him. He also wanted to see the most frequently traded stocks of the portfolio, those are highlighted in green and the rest are red. 2017 was a much better year for his portfolio than 2018. 
 
 Most of his selected green energy stocks in 2017 had large gains this year but appear to drawback in 2018.
-![2017 Annual Returns] (/Users/john/Desktop/Git Repository/stock-analysis/New Analysis/Resources/2017 Annual Returns.png)
-![2018 Annual Returns] (/Users/john/Desktop/Git Repository/stock-analysis/New Analysis/Resources/2018 Annual Returns.png)
+![2017 Annual Returns] (/New Analysis/Resources/2017 Annual Returns.png)
+![2018 Annual Returns] (/New Analysis/Resources/2018 Annual Returns.png)
